@@ -13,6 +13,7 @@ O setor de RH da empresa, com foco no gerenciamento de colaboradores da empresa,
 
 ### 2.2 Dicas de Ferramenta
 - Dica de ferrmaneta adicionada.
+
 ![Imagem_Dashboard](assets/Dica_de_ferramenta.jpg)
 
 ## 3. Tecnologias usadas
