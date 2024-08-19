@@ -12,7 +12,7 @@ O setor de RH da empresa, com foco no gerenciamento de colaboradores da empresa,
 ![Imagem_Dashboard](assets/Dashboard_Controle_RH.jpg)
 
 ### 2.2 Dicas de Ferramenta
-- Dica de ferrmaneta adicionada.
+- Dica de ferramenta adicionada.
 
 ![Imagem_Dashboard](assets/Dica_de_ferramenta.jpg)
 
