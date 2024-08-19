@@ -1,4 +1,4 @@
-# Dashboard Controle Logistica
+# Dashboard Controle RH
 ## 1. Problema de Negócio
 O setor de RH da empresa, com foco no gerenciamento de colaboradores da empresa, solicitou um dashboard para acompanhamento de métricas que possam ajuda-los a entender melhor a situação atual de colaboradores da empresa auxiliando também na tomada de melhores decisões. 
 - Algumas das métricas são: Folha Salarial, Funcionários Ativos, Total de Demissões, Funcionários por área, Funcionários por Cidade, Total de colaboradores, entre outros.
